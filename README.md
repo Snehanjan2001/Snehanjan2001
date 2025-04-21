@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Snehanjan2001
-- 👀 I’m interested in Softwares and tech in general
-- 🌱 I’m currently learning Kubernetes, Solidity and Advanced Js
-- 💞️ I’m looking to collaborate on on some innovative project that could be path-breaking
-- 📫 How to reach me : snehanjanroy2k1@gmail.com
+# 👋 Hey there, I'm Snehanjan Roy
 
-<!---
-Snehanjan2001/Snehanjan2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 I’m a tech enthusiast with a strong foundation in computer science and a passion for building impactful solutions.  
+🛠️ I enjoy working on innovative projects involving software systems, automation, and problem-solving.  
+📨 Contact: snehanjanroy2k1@gmail.com | 📱 +91-7584875196
